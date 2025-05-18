@@ -1,6 +1,5 @@
 ```mermaid
 classDiagram
-classDiagram
     class MenuItem {
         -name: str
         -price: float
