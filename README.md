@@ -1,3 +1,7 @@
+Reto 3
+Create a repo with the class exercise
+Restaurant scenario: You want to design a program to calculate the bill for a customer's order in a restaurant.
+Create a class diagram with all classes and their relationships.
 ```mermaid
 classDiagram
     class MenuItem {
